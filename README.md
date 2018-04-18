@@ -5,5 +5,5 @@ Students:  Ochirnyam (Adam) Baasandorj, Lydia Snyder
 
 Languages: C++, Python
 
-[Python Table of Contents](Python/1 python intro.md)
+[Python Table of Contents](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/1%20python%20intro.md)
 
