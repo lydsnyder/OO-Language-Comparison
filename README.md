@@ -2,7 +2,8 @@
 4330 Final Project Language Comparison
 
 Students:  Ochirnyam (Adam) Baasandorj, Lydia Snyder
-Languages: C++, ???
+
+Languages: C++, Python
 
     Language purpose/genesis
         Why was the language created?
