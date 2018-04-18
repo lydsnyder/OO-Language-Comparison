@@ -1,6 +1,8 @@
-# [Main Page-C++](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/README.md)
+# C++ Contents
 
-### [Python](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/contents.md) || [C++](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/c++/contents.md)
+## [Back to Home Page](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/README.md)
+
+### [Go to Python Contents](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/contents.md)
 
 [Language purpose/genesis](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/2%20language%20purpose%20and%20genesis.md)
 
