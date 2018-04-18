@@ -5,6 +5,6 @@ Students:  Ochirnyam (Adam) Baasandorj, Lydia Snyder
 
 Languages: C++, Python
 
-1. [C++ Table of Contents](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/1%20python%20intro.md)
-2. [Python Table of Contents](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/1%20python%20intro.md)
+1. [C++ Table of Contents](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/contents.md)
+2. [Python Table of Contents](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/c++/contents.md)
 
