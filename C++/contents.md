@@ -4,11 +4,11 @@
 
 ### [Go to Python Contents](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/contents.md)
 
-[Language purpose/genesis](https://github.com/lydsnyder/OO-Language-Comparison/blob/master/Python/2%20language%20purpose%20and%20genesis.md)
+[Language purpose/genesis](https://github.com/lydsnyder/OO-Language-Comparison/blob/C++/C++/2%20language%20purpose%20and%20genesis.md)
 
-[Unique features of the language]()
+[Unique features of the language](https://github.com/lydsnyder/OO-Language-Comparison/blob/C%2B%2B/C%2B%2B/3%20unique%20features%20of%20the%20language.md)
 
-[Name spaces]()
+[Name spaces](https://github.com/lydsnyder/OO-Language-Comparison/blob/C%2B%2B/C%2B%2B/4%20name%20spaces.md)
 
 [Types]()
 
