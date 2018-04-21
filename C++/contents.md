@@ -47,6 +47,5 @@
 ## Web Sources:
 https://www.tutorialspoint.com/cplusplus/  
 http://www.cplusplus.com/doc/tutorial/   
-https://msdn.microsoft.com/en-us/library/dd293608.aspx  
-http://blog.madhukaraphatak.com/functional-programming-in-c++/  
+https://www.geeksforgeeks.org/namespace-in-c/
 https://www.ukessays.com/essays/english-language/the-unique-features-of-c-in-programming-english-language-essay.php
