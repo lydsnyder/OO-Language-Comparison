@@ -10,7 +10,7 @@
 
 [Name spaces](https://github.com/lydsnyder/OO-Language-Comparison/blob/C%2B%2B/C%2B%2B/4%20name%20spaces.md)
 
-[Types]()
+[Types](https://github.com/lydsnyder/OO-Language-Comparison/blob/C%2B%2B/C%2B%2B/5%20types.md)
 
 [Classes]()
 
@@ -46,6 +46,7 @@
 
 ## Web Sources:
 https://www.tutorialspoint.com/cplusplus/  
-http://www.cplusplus.com/doc/tutorial/   
+http://www.cplusplus.com/doc/tutorial/
+
 https://www.geeksforgeeks.org/namespace-in-c/
 https://www.ukessays.com/essays/english-language/the-unique-features-of-c-in-programming-english-language-essay.php
