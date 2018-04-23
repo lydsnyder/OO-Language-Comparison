@@ -3,7 +3,7 @@
 ### Defining
 Classes are an expansion of data structures that can contain data members as well as functions as members. When you define a class, you define a blueprint for a data type.
 ```C++
-class class_name {
+class className {
    access_specifier_1:
       member1;
    access_specifier_2:

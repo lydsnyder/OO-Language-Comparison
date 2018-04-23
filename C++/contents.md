@@ -12,9 +12,9 @@
 
 [Types](https://github.com/lydsnyder/OO-Language-Comparison/blob/C%2B%2B/C%2B%2B/5%20types.md)
 
-[Classes]()
+[Classes](https://github.com/lydsnyder/OO-Language-Comparison/blob/C%2B%2B/C%2B%2B/6%20classes.md)
 
-[Instance reference name in data type (class)]()
+[Instance reference name in data type (class)](https://github.com/lydsnyder/OO-Language-Comparison/blob/C%2B%2B/C%2B%2B/7%20instance%20reference%20name%20in%20data%20type%20(class).md)
 
 [Properties]()
 
