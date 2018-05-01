@@ -50,3 +50,5 @@ http://www.cplusplus.com/doc/tutorial/
 https://www.geeksforgeeks.org/namespace-in-c/
 https://www.ukessays.com/essays/english-language/the-unique-features-of-c-in-programming-english-language-essay.php
 https://www.cs.hmc.edu/~geoff/classes/hmc.cs070.200401/notes/classes.html
+https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/fields
+http://www.garret.ru/cppreflection/docs/reflect.html

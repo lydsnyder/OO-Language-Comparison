@@ -1,10 +1,9 @@
-#Memory management
-    
-    
-###How is it handled?
+# Memory management
 
-###How does it work?
+### How is it handled?
 
-###Garbage collection?
+### How does it work?
 
-###Automatic reference counting?
+### Garbage collection?
+
+### Automatic reference counting?

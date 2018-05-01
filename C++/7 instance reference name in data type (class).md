@@ -6,14 +6,14 @@ Every object in C++ has access to its own address through the pointer "this". "T
 ```C++
 class MyClass
 {
-private:
-   int x;
-public:
-   void setX (int x)
-   {
-       // The 'this' pointer is used to retrieve the object's x
-       // hidden by the local variable 'x'
-       this->x = x;
-   }
+  private:
+     int x;
+  public:
+     void setX (int x)
+     {
+         // The 'this' pointer is used to retrieve the object's x
+         // hidden by the local variable 'x'
+         this->x = x;
+     }
 };
 ```
