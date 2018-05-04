@@ -50,4 +50,5 @@ _del_() is the destructor in Python, but it seems that the use of it is not reco
 ## Sources:
 
 [Classes - Python.org](https://docs.python.org/3/tutorial/classes.html)
+
 [Python Gotchas](http://www.algorithm.co.il/blogs/programming/python-gotchas-1-__del__-is-not-the-opposite-of-__init__/)
