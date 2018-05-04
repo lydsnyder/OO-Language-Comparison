@@ -53,4 +53,5 @@ Yes, they can! At runtime, Python sees all objects as variables of type PyObject
 ## Sources:
 
 [Python Type Wiki](https://en.wikibooks.org/wiki/Python_Programming/Data_Types)
+
 [Difference between Mutable and Immutable](http://net-informations.com/python/iq/immutable.htm)
