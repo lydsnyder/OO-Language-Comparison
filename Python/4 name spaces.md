@@ -26,4 +26,5 @@ They can exist independently from each other. The hierarchy is displayed in the 
 ## Sources:
 
 [Python Course](https://www.python-course.eu/namespaces.php)
+
 [A Beginner's Guide to Python's ...](http://sebastianraschka.com/Articles/2014_python_scope_and_namespaces.html)
